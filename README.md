@@ -1,19 +1,23 @@
 # Oi, eu sou o Pedro!
 
-Atualmente estou em processo de migração para a área de tecnologia.
+Nerd, farmacêutico, apaixonado por dados e em processo de migração para a área de tecnologia.
 
-E mais especificamente estou estudando engenharia de dados.
+Atualmente estudando engenharia de dados na <a href="https://soulcodeacademy.org/">SoulCode</a>.
+
+## Infos:
 
 [Cards de status de commits e linguagens usadas]: #
-<div>
+<div align=center>
   <a href="https://github.com/pedroh6s">
-  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=pedroh6s&show_icons=true&theme=github_dark&title_color=B30E16&border_color=B30E16&icon_color=B30E16&custom_title=Status dessa conta"/>
-  <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh6s&show_icons=true&theme=github_dark&layout=compact&title_color=B30E16&border_color=B30E16&custom_title=Linguagens mais usadas"/>
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=pedroh6s&show_icons=true&theme=github_dark&title_color=B30E16&border_color=B30E16&icon_color=B30E16&custom_title=Status dessa conta"/>
+  <img width="420px" height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh6s&show_icons=true&theme=github_dark&layout=compact&title_color=B30E16&border_color=B30E16&custom_title=Linguagens mais usadas"/>
   </a>
 </div>
 
+## Repositórios:
+
 [Cards de repositórios]: #
-<div>
+<div align=center>
   <a href="https://github.com/pedroh6s/NBA-Salary-CAP-WebScraping">
   <img width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroh6s&repo=NBA-Salary-CAP-WebScraping&theme=github_dark&title_color=B30E16&border_color=B30E16"/>
   </a>
@@ -25,7 +29,7 @@ E mais especificamente estou estudando engenharia de dados.
 ## Tecnologias:
 
 [Ícones de ferramentas]: #
-<div>
+<div align=center>
   <img height="100px" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img height="100px" alt="flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img height="100px" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -38,7 +42,7 @@ E mais especificamente estou estudando engenharia de dados.
 ## Contatos:
 
 [Links de contato]: #
-<div>
+<div align=center>
   <a href="https://www.linkedin.com/in/phmoreira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
