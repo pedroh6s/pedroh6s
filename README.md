@@ -6,14 +6,20 @@ E mais especificamente estou estudando engenharia de dados.
 
 [Cards de status de commits e linguagens usadas]: #
 <div>
+  <a href="https://github.com/pedroh6s">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=pedroh6s&show_icons=true&theme=github_dark&title_color=B30E16&border_color=B30E16&icon_color=B30E16&custom_title=Status dessa conta"/>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh6s&show_icons=true&theme=github_dark&layout=compact&title_color=B30E16&border_color=B30E16&custom_title=Linguagens mais usadas"/>
+  </a>
 </div>
 
 [Cards de repositórios]: #
 <div>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroh6s&repo=curriculum-vitae&theme=github_dark&title_color=B30E16&border_color=B30E16"/>
+  <a href="https://github.com/pedroh6s/NBA-Salary-CAP-WebScraping">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroh6s&repo=NBA-Salary-CAP-WebScraping&theme=github_dark&title_color=B30E16&border_color=B30E16"/>
+  </a>
+  <a href="https://github.com/pedroh6s/curriculum-vitae">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroh6s&repo=curriculum-vitae&theme=github_dark&title_color=B30E16&border_color=B30E16"/>  
+  </a>
 </div>
 
 [Ícones de ferramentas]: #
