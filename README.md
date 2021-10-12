@@ -7,24 +7,25 @@ E mais especificamente estou estudando engenharia de dados.
 [Cards de status de commits e linguagens usadas]: #
 <div>
   <a href="https://github.com/pedroh6s">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=pedroh6s&show_icons=true&theme=github_dark&title_color=B30E16&border_color=B30E16&icon_color=B30E16&custom_title=Status dessa conta"/>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh6s&show_icons=true&theme=github_dark&layout=compact&title_color=B30E16&border_color=B30E16&custom_title=Linguagens mais usadas"/>
+  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=pedroh6s&show_icons=true&theme=github_dark&title_color=B30E16&border_color=B30E16&icon_color=B30E16&custom_title=Status dessa conta"/>
+  <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh6s&show_icons=true&theme=github_dark&layout=compact&title_color=B30E16&border_color=B30E16&custom_title=Linguagens mais usadas"/>
   </a>
 </div>
 
 [Cards de repositórios]: #
 <div>
   <a href="https://github.com/pedroh6s/NBA-Salary-CAP-WebScraping">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroh6s&repo=NBA-Salary-CAP-WebScraping&theme=github_dark&title_color=B30E16&border_color=B30E16"/>
+  <img width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroh6s&repo=NBA-Salary-CAP-WebScraping&theme=github_dark&title_color=B30E16&border_color=B30E16"/>
   </a>
   <a href="https://github.com/pedroh6s/curriculum-vitae">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroh6s&repo=curriculum-vitae&theme=github_dark&title_color=B30E16&border_color=B30E16"/>  
+  <img width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroh6s&repo=curriculum-vitae&theme=github_dark&title_color=B30E16&border_color=B30E16"/>  
   </a>
 </div>
 
+## Tecnologias:
+
 [Ícones de ferramentas]: #
 <div>
-<br></br>
   <img height="100px" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img height="100px" alt="flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img height="100px" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -34,9 +35,10 @@ E mais especificamente estou estudando engenharia de dados.
   <img height="100px" alt="gcp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
 </div>
 
+## Contatos:
+
 [Links de contato]: #
 <div>
-<br></br>
   <a href="https://www.linkedin.com/in/phmoreira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
