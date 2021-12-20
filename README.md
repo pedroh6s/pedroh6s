@@ -2,7 +2,7 @@
 
 Nerd, farmacêutico, apaixonado por dados e em processo de migração para a área de tecnologia.
 
-Atualmente estudando engenharia de dados na <a href="https://soulcodeacademy.org/">SoulCode</a>.
+Fiz o curso de engenharia de dados na <a href="https://soulcodeacademy.org/">SoulCode</a>.
 
 ## Infos:
 
