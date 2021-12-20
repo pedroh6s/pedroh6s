@@ -1,8 +1,11 @@
 # Oi, eu sou o Pedro!
 
-Nerd, farmacêutico, apaixonado por dados e em processo de migração para a área de tecnologia.
+Nerd, farmacêutico, apaixonado por dados.
 
 Fiz o curso de engenharia de dados na <a href="https://soulcodeacademy.org/">SoulCode</a>.
+
+E estou em processo de migração para a área de tecnologia.
+
 
 ## Infos:
 
