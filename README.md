@@ -7,16 +7,6 @@ Fiz o curso de engenharia de dados na <a href="https://soulcodeacademy.org/">Sou
 E atualmente trabalho como Analista BI.
 
 
-## Infos:
-
-[Cards de status de commits e linguagens usadas]: #
-<div align=center>
-  <a href="https://github.com/pedroh6s">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=pedroh6s&show_icons=true&theme=github_dark&title_color=B30E16&border_color=B30E16&icon_color=B30E16&custom_title=Status dessa conta"/>
-  <img width="420px" height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh6s&show_icons=true&theme=github_dark&layout=compact&title_color=B30E16&border_color=B30E16&custom_title=Linguagens mais usadas"/>
-  </a>
-</div>
-
 ## Repositórios:
 
 [Cards de repositórios]: #
